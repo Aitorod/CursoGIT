@@ -5,13 +5,12 @@
 
 <head>
 <title>Html Exmaple</title>
-<link href="css/estilos.css" rel="stylesheet" type="text/css">
 
 </head>
 
 <body>
 
-<h1>Este es el título. Proyecto empresarial</h1>
+<h1>Este es el título</h1>
 
 <p>Este es el texto</p>
 
